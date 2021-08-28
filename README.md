@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-I'm [Kunal Yelne](https://kunalyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Java and Android programming. </b> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
+I'm [Kunal Yelne](https://kunalyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Java and Android programming. </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> <br /> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -8,9 +8,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <h4> Languages and Tools: </h4>
 
-<img align="left" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" />
-<img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" width="25px" height="25px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" width="25px" height="25px" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" width="25px" height="25px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img align="left" width="25px" height="25px" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
