@@ -20,7 +20,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img align="left" width="25px" height="25px" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <br />
-<br />
 <br /> <h4> Like My Work? </h4>
 <a href="https://www.buymeacoffee.com/kunalyelne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" /></a>
 
