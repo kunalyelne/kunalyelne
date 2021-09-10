@@ -28,3 +28,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://www.linkedin.com/in/kunalyelne/">
   <img align="left" alt="Kunal Yelne | LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=kunalyelne.kunalyelne)
