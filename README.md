@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=kunalyelne.kunalyelne" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=kunalyelne.kunalyelne" alt="Visitors" align="center"/> </a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalyelne%2Fkunalyelne&label=Visits&countColor=%230c8ab7&style=flat&labelStyle=lower)
 
 I'm [Kunal Yelne](https://kunalyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Java and Android programming. </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> <br /> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
 
