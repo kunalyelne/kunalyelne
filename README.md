@@ -2,10 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalyelne%2Fkunalyelne&label=Visits&countColor=%230c8ab7&style=flat&labelStyle=lower)
 
-I'm [Kunal Yelne](https://kunalyelne.github.io/), a <b> Versatile Software Engineer </b> with training and experience in <b> Java and Android programming. </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> <br /> Knowledgeable in a wide range of development languages and methodologies. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+I'm [Kunal Yelne](https://kunalyelne.github.io/) <img align="center" width="35px" height="35px" alt="Android" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons-3.png" /> <br /> As a versatile Software Engineer with extensive training and hands-on experience in Java and Android programming </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> , I possess comprehensive knowledge spanning multiple development languages and methodologies. I am dedicated to delivering exceptional user experiences, architecting robust solutions, and maintaining high code quality standards in all my development endeavors.
 <img align="right" alt="GIF" src="https://github.com/kunalyelne/kunalyelne/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 <h4> Languages and Tools: </h4>
