@@ -2,13 +2,14 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalyelne%2Fkunalyelne&label=Visits&countColor=%230c8ab7&style=flat&labelStyle=lower)
 
-I'm [Kunal Yelne](https://kunalyelne.github.io/) <img align="center" width="35px" height="35px" alt="Android" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons-3.png" /> <br /> As a versatile Software Engineer with extensive training and hands-on experience in Java and Android programming </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> , I possess comprehensive knowledge spanning multiple development languages and methodologies. I am dedicated to delivering exceptional user experiences, architecting robust solutions, and maintaining high code quality standards in all my development endeavors.
+I'm [Kunal Yelne](https://kunalyelne.github.io/) <img align="center" width="35px" height="35px" alt="Android" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons-3.png" /> <br /> As a versatile Software Engineer with extensive expertise in mobile app development across all Android and iOS platforms </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> <img align="center" width="25px" height="25px" alt="Apple" src="https://img.icons8.com/?size=100&id=ZS86z3goveDT&format=png&color=000000" /> , I possess comprehensive knowledge and hands-on experience in Java, Android programming, iOS app development, and React Native. I am committed to delivering exceptional user experiences, architecting robust solutions, and maintaining the highest standards of code quality in all my development endeavors.
 <img align="right" alt="GIF" src="https://github.com/kunalyelne/kunalyelne/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 <h4> Languages and Tools: </h4>
 
 <img align="left" width="25px" height="25px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+<img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/swift.png" />
 <img align="left" width="25px" height="25px" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" width="25px" height="25px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img align="left" width="25px" height="25px" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
