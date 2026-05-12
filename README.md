@@ -11,8 +11,6 @@ Now focused on AI, mobile experiences, and infrastructure.
 
 <a href="https://www.linkedin.com/in/kunalyelne/">LinkedIn</a>
 •
-<a href="https://github.com/kunalyelne">GitHub</a>
-•
 <a href="https://kunalyelne.github.io/">Portfolio</a>
 
 </div>
@@ -27,11 +25,14 @@ Currently working at **ElevenLabs** building AI-powered mobile applications and 
 
 Previously at **Esper**, where I worked on large-scale Android & iOS device management infrastructure serving over **1 million devices** globally.
 
-Outside work, I’m building **Fitlane** — an AI-powered fitness platform designed around personalization, performance, and modern product design.
+Outside work, I’m building **<a href="https://www.fitlane.app/">Fitlane</a>** — an AI-powered fitness platform designed around personalization, performance, and modern product design.
 
 ---
 
-## Selected Work
+## Work
+
+### Butter Chicken Studios
+SaaS Studio • Personalized Apps • 0 - 1 • Design to MVP
 
 ### ElevenLabs
 AI consumer applications, mobile experiences, and product engineering.
@@ -39,12 +40,9 @@ AI consumer applications, mobile experiences, and product engineering.
 ### Esper
 Enterprise mobility infrastructure, policy systems, deployment reliability, and device orchestration at scale.
 
-### Fitlane
-SwiftUI • Go • PostgreSQL • Terraform • Docker • AI Personalization
-
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Mobile
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
