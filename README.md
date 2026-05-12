@@ -1,30 +1,80 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+<div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalyelne%2Fkunalyelne&label=Visits&countColor=%230c8ab7&style=flat&labelStyle=lower)
+# Kunal Yelne
 
-I'm [Kunal Yelne](https://kunalyelne.github.io/) <img align="center" width="35px" height="35px" alt="Android" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-programmer-mobile-app-development-flaticons-lineal-color-flat-icons-3.png" /> <br /> As a versatile Software Engineer with extensive expertise in mobile app development across all Android and iOS platforms </b> <img align="center" width="25px" height="25px" alt="Android" src="https://img.icons8.com/fluency/48/000000/android-os.png" /> <img align="center" width="25px" height="25px" alt="Apple" src="https://img.icons8.com/?size=100&id=ZS86z3goveDT&format=png&color=000000" /> , I possess comprehensive knowledge and hands-on experience in Java, Android programming, iOS app development, and React Native. I am committed to delivering exceptional user experiences, architecting robust solutions, and maintaining the highest standards of code quality in all my development endeavors.
-<img align="right" alt="GIF" src="https://github.com/kunalyelne/kunalyelne/blob/main/coding.gif?raw=true" width="500" height="320" />
+### Building AI-native consumer products at ElevenLabs
 
-<h4> Languages and Tools: </h4>
+Previously scaled enterprise systems managing **1M+ devices**.  
+Now focused on AI, mobile experiences, and infrastructure.
 
-<img align="left" width="25px" height="25px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png" />
-<img align="left" width="25px" height="25px" alt="Kotlin" src="https://img.icons8.com/color/48/swift.png" />
-<img align="left" width="25px" height="25px" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" width="25px" height="25px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" width="25px" height="25px" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" width="25px" height="25px" alt="Nodejs" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" width="25px" height="25px" alt="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" width="25px" height="25px" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" width="25px" height="25px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" width="25px" height="25px" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+<br/>
 
-<br />
-<br />
-<br /> <h4> Like My Work? </h4>
-<a href="https://www.buymeacoffee.com/kunalyelne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" /> </a>
+<a href="https://www.linkedin.com/in/kunalyelne/">LinkedIn</a>
+•
+<a href="https://github.com/kunalyelne">GitHub</a>
+•
+<a href="https://kunalyelne.github.io/">Portfolio</a>
 
-<h4> Connect with me on LinkedIn </h4>
-<a href="https://www.linkedin.com/in/kunalyelne/">
-  <img align="left" alt="Kunal Yelne | LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
+</div>
+
+---
+
+## About
+
+Software engineer focused on crafting high-quality products across mobile, backend, and cloud infrastructure.
+
+Currently working at **ElevenLabs** building AI-powered mobile applications and experiences.
+
+Previously at **Esper**, where I worked on large-scale Android & iOS device management infrastructure serving over **1 million devices** globally.
+
+Outside work, I’m building **Fitlane** — an AI-powered fitness platform designed around personalization, performance, and modern product design.
+
+---
+
+## Selected Work
+
+### ElevenLabs
+AI consumer applications, mobile experiences, and product engineering.
+
+### Esper
+Enterprise mobility infrastructure, policy systems, deployment reliability, and device orchestration at scale.
+
+### Fitlane
+SwiftUI • Go • PostgreSQL • Terraform • Docker • AI Personalization
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-black?style=flat-square&logo=android)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+
+### Backend & Infrastructure
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
+
+---
+
+## Philosophy
+
+I enjoy building products that feel simple on the surface
+while hiding deeply engineered systems underneath.
+
+---
+
+<div align="center">
+
+*"Great products are engineered with taste."*
+
+</div>
